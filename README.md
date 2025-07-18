@@ -1,20 +1,20 @@
-# 📄 AI Document Summarizer
+# AI Document Summarizer
 
 A fast, flexible, and interview-ready tool that uses GPT-4o to intelligently summarize PDF, DOCX, and TXT documents. Designed for rapid deployment, clean code structure, and real-world use cases—perfect for showcasing your applied AI and Python development skills.
 
 ---
 
-## 🚀 Features
+## Features
 
-- ✅ Upload and parse documents (`.pdf`, `.docx`, `.txt`)
-- 🧠 Summarize using OpenAI’s `gpt-4o` model
-- 📝 Choose from **short**, **detailed**, or **bullet point** summaries
-- 💡 Clean, modular Python backend for easy customization
-- ⚡ Interactive UI built with Streamlit
+- Upload and parse documents (`.pdf`, `.docx`, `.txt`)
+- Summarize using OpenAI’s `gpt-4o` model
+- Choose from **short**, **detailed**, or **bullet point** summaries
+- Clean, modular Python backend for easy customization
+- Interactive UI built with Streamlit
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 | Tool/Library       | Purpose                            |
 |--------------------|------------------------------------|
@@ -27,9 +27,9 @@ A fast, flexible, and interview-ready tool that uses GPT-4o to intelligently sum
 
 ---
 
-## 🛠️ Setup & Installation (PowerShell)
+## Setup & Installation (PowerShell)
 
-> ✅ Recommended: Use Visual Studio Code + PowerShell terminal (default on Windows)
+> Recommended: Use Visual Studio Code + PowerShell terminal (default on Windows)
 
 1. **Clone the repository**
    ```powershell
@@ -38,7 +38,7 @@ A fast, flexible, and interview-ready tool that uses GPT-4o to intelligently sum
 
 ---
 
-## 🧠 Requirements
+## Requirements
 
 - Python 3.10+
 - An Azure OpenAI resource with a deployed model (e.g., `gpt-4o`)

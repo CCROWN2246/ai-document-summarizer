@@ -8,7 +8,6 @@ A fast, flexible, and interview-ready tool that uses GPT-4o to intelligently sum
 
 - Upload and parse documents (`.pdf`, `.docx`, `.txt`)
 - Summarize using OpenAI’s `gpt-4o` model
-- Choose from **short**, **detailed**, or **bullet point** summaries
 - Clean, modular Python backend for easy customization
 - Interactive UI built with Streamlit
 

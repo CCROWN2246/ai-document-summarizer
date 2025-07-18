@@ -44,8 +44,9 @@ A fast, flexible, and interview-ready tool that uses GPT-4o to intelligently sum
 - An Azure OpenAI resource with a deployed model (e.g., `gpt-4o`)
 - Your own API key and endpoint
 
-Install dependencies:
+## Use Instructions
 
+Install dependencies:
 ```powershell
 pip install -r requirements.txt
 
@@ -54,7 +55,6 @@ python -m venv .venv
 
 ##get rid of powershell script execution error
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
-
 
 ## activate the environment
 .venv\Scripts\activate

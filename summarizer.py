@@ -35,4 +35,4 @@ def summarize_text(text):
         return response.choices[0].message.content.strip()
 
     except Exception as e:
-        return f"⚠️ An error occurred while generating the summary: {e}"
+        return f"An error occurred while generating the summary: {e}"

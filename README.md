@@ -1,6 +1,6 @@
 # AI Document Summarizer
 
-A fast, flexible, and interview-ready tool that uses GPT-4o to intelligently summarize PDF, DOCX, and TXT documents. Designed for rapid deployment, clean code structure, and real-world use cases—perfect for showcasing your applied AI and Python development skills.
+A fast, flexible, and interview-ready tool that uses GPT-4o to intelligently summarize PDF, DOCX, and TXT documents. Designed for rapid deployment, clean code structure, and real-world use cases.
 
 ---
 
